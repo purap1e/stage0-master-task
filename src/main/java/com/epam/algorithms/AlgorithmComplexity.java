@@ -1,6 +1,6 @@
 package com.epam.algorithms;
 
-import com.epam.algorithms.utils.Complexity;
+import com.epam.algorithms.utils.*;
 
 /**
  * Tasks for assessing the algorithm complexity. The following are the ratios of the constants with the BigO estimate:
